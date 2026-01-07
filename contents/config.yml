@@ -1,4 +1,4 @@
-title: Name of website
-page-top-title: TITLE
-top-section-bg-text: Page Header
-copyright-text: '&copy; Your Name. All Rights Reserved.'
+title: backbone for R
+page-top-title: BACKBONE
+top-section-bg-text: backbone: A R package to extract network backbones
+copyright-text: '&copy; Zachary Neal. All Rights Reserved.'
