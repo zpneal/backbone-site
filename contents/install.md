@@ -1,3 +1,5 @@
+![](https://www.r-pkg.org/badges/version/backbone?color=orange) ![](https://cranlogs.r-pkg.org/badges/grand-total/backbone?color=blue) ![](https://cranlogs.r-pkg.org/badges/last-month/backbone?color=green)
+
 The **backbone** package is available from [CRAN](https://cran.r-project.org/package=backbone) and can be installed from the **R** console by typing `install.packages("backbone")`. 
 
 Once the **backbone** package is installed, you can:
