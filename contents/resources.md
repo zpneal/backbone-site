@@ -3,8 +3,10 @@ The **backbone** package has been used in over 100 research articles, which you 
 Here are some helpful resources for using the **backbone** package and understanding the models it implements:
 * **Online tutorial with examples:** [Package vignette](https://cran.r-project.org/web/packages/backbone/vignettes/backbone.html)
 
-* **Main citation and manual for the package:** Neal, Z. P. (2022). backbone: An R package to extract network backbones. _PLOS One, 17_, e0269137. https://doi.org/10.1371/journal.pone.0269137​
+* **Main citation and manual for the package:** Neal, Z. P. (2022). backbone: An R package to extract network backbones. _PLOS One, 17_, e0269137. https://doi.org/10.1371/journal.pone.0269137
 
+* **Source code:** https://github.com/zpneal/backbone
+​
 * **Comparison of backbone models for weighted bipartite projections:** Neal, Z. P., Domagalski, R., & Sagan, B. (2021). Comparing alternatives to the fixed degree sequence model for extracting the backbone of bipartite projections. _Scientific Reports, 11_, 23929. https://doi.org/10.1038/s41598-021-03238-3​
 
 * **Comparison of backbone methods for weighted networks:** Yassin, A., Haidar, A., Cherifi, H., Seba, H., & Togni, O. (2023). An evaluation tool for backbone extraction techniques in weighted complex networks. _Scientific Reports, 13_, 17000. https://doi.org/10.1038/s41598-023-42076-3
